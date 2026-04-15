@@ -10,7 +10,7 @@ Profesional en Soporte Técnico e Infraestructura con experiencia en administrac
 
 Profesional en **Soporte Técnico e Infraestructura** especializado en administración de sistemas, redes y virtualización. Enfocado en mantener servicios estables y seguros, priorizando disponibilidad, monitoreo y documentación. Experiencia transformando incidencias en soluciones definitivas.
 
-📄 [Descarga mi CV](Cv Habner Lopez..pdf)  
+📄 [Descarga mi CV](Cv Habner Lopez.pdf)  
 🔗 [Conectemos en LinkedIn](https://www.linkedin.com/in/tu-usuario)
 
 ---
