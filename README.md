@@ -10,7 +10,7 @@ Profesional en Soporte Técnico e Infraestructura con experiencia en administrac
 Profesional en **Soporte Técnico e Infraestructura** con experiencia en administración de sistemas, configuración de redes y soporte a usuarios. Orientado a la solución de problemas y a la mejora continua de los servicios de TI. Mi enfoque está en transformar incidencias en soluciones estables, priorizando seguridad, disponibilidad y documentación.
 
 📄 [Descarga mi CV](CV-Habner-Lopez.pdf)  
-🔗 [Mi LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/habner-silvestre-l%C3%B3pez-mej%C3%ADa-251260275/))
+🔗 [Mi LinkedIn]([https://www.linkedin.com/in/tu-usuario])
 
 ---
 ## 📊 GitHub Status & Actividad
