@@ -12,7 +12,7 @@ Profesional en **Soporte Técnico e Infraestructura** especializado en administr
 
 📄 [Descarga mi CV][Cv Habner Lopez..pdf](https://github.com/user-attachments/files/26736796/Cv.Habner.Lopez.pdf)
 
-🔗 [Conectemos en LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/habner-silvestre-l%C3%B3pez-mej%C3%ADa-251260275/ )
+🔗 [Conectemos en LinkedIn]https://www.linkedin.com/in/habner-silvestre-l%C3%B3pez-mej%C3%ADa-251260275/ 
 
 ---
 ## 🛠️ Stack Tecnológico
