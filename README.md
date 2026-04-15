@@ -1,7 +1,7 @@
 # IT-Support-Infrastructure.
 Profesional en Soporte Técnico e Infraestructura con experiencia en administración de sistemas, configuración de redes y soporte a usuarios. Orientado a la solución de problemas y a la mejora continua de los servicios de TI.
 
-# 🚀 Hola, soy Habner Lopez | IT Support & Infrastructure
+#  Hola, soy Habner Lopez | IT Support & Infrastructure
 
 [GitHub](https://img.shields.io/badge/GitHub-Habner--Lopez-black?style=for-the-badge&logo=github)
 [Focus](https://img.shields.io/badge/Focus-IT%20Infrastructure-0A66C2?style=for-the-badge)
